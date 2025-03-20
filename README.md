@@ -32,3 +32,7 @@ A comprehensive **AI Finance Platform** built using modern web technologies to p
 
 ![Photography Website](preview1.png)  
 ![Photography Website](preview2.png)  
+![Photography Website](preview3.png)  
+![Photography Website](preview4.png)  
+![Photography Website](preview5.png)  
+![Photography Website](preview6.png)  
